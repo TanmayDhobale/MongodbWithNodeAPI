@@ -27,7 +27,7 @@ Follow the steps outlined above to create a fully functional CRUD application. A
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+https://github.com/TanmayDhobale/MongodbWithNodeAPI.git
 
 # Install dependencies
 npm install
